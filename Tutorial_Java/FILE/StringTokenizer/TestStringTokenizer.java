@@ -27,6 +27,8 @@ class TestStringTokenizer{
             f = in.readLine();
             
             fOut.println(f);
+
+            fOut.flush();
             fOut.close();
         }catch(Exception e){
             System.out.println("Invalid value");
@@ -50,4 +52,5 @@ class TestStringTokenizer{
             System.out.println("Invalid value");
         }
     }
+
 }
