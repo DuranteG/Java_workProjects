@@ -1,0 +1,23 @@
+Istat;Comune;Provincia;Regione;Prefisso;CAP;CodFisco;Abitanti;Link		
+028001;Abano Terme;PD;VEN;049;35031;A001;19726;http://www.comuni-italiani.it/028/001/		
+098001;Abbadia Cerreto;LO;LOM;0371;26834;A004;293;http://www.comuni-italiani.it/098/001/		
+097001;Abbadia Lariana;LC;LOM;0341;23821;A005;3305;http://www.comuni-italiani.it/097/001/		
+052001;Abbadia San Salvatore;SI;TOS;0577;53021;A006;6722;http://www.comuni-italiani.it/052/001/		
+095001;Abbasanta;OR;SAR;0785;09071;A007;2872;http://www.comuni-italiani.it/095/001/	
+103006;Baceno;VB;PIE;0324;28861;A534;928;http://www.comuni-italiani.it/103/006/		
+063006;Bacoli;NA;CAM;081;80070;A535;27267;http://www.comuni-italiani.it/063/006/		
+008006;Badalucco;IM;LIG;0184;18010;A536;1221;http://www.comuni-italiani.it/008/006/		
+104005;Badesi;OT;SAR;079;07030;M214;1909;http://www.comuni-italiani.it/104/005/		
+021006;Badia;BZ;TAA;0471;39036;A537;3369;http://www.comuni-italiani.it/021/006/		
+023005;Badia Calavena;VR;VEN;045;37030;A540;2675;http://www.comuni-italiani.it/023/005/		
+019008;Ca' d'Andrea;CR; ;LOM;0375;26030;B320;482;http://www.comuni-italiani.it/019/008/		
+006025;Cabella Ligure;AL;PIE;0143;15060;B311;576;http://www.comuni-italiani.it/006/025/		
+013035;Cabiate;CO;LOM;031;22060;B313;7394;http://www.comuni-italiani.it/013/035/		
+095018;Cabras;OR;SAR;0783;09072;B314;9169;http://www.comuni-italiani.it/095/018/		
+082014;Caccamo;PA;SIC;091;90012;B315;8382;http://www.comuni-italiani.it/082/014/	
+101002;Caccuri;KR;CAL;0984;88833;B319;1730;http://www.comuni-italiani.it/101/002/		
+022070;Daiano;TN;TAA;0462;38030;D243;709;http://www.comuni-italiani.it/022/070/		
+015099;Dairago;MI;LOM;0331;20020;D244;5780;http://www.comuni-italiani.it/015/099/		
+016091;Dalmine;BG;LOM;035;24044;D245;23266;http://www.comuni-italiani.it/016/091/		
+022071;Dambel;TN;TAA;0463;38010;D246;434;http://www.comuni-italiani.it/022/071/		
+025017;Danta di Cadore;BL;VEN;0435;32040;D247;514;http://www.comuni-italiani.it/025/017/	
