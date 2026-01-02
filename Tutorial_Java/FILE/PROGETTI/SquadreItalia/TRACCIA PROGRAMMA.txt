@@ -1,0 +1,4 @@
+Realizzare un’applicazione Java  che gestisca un archivio (memorizzato su un file  CSV) con le funzionalità
+di visualizzazioni, ricerche, salvataggi, aggiunte di voci, visualizzazioni ordinate.
+L’archivio deve essere scelto dal programmatore in base ai propri interessi.
+Esempio: giochi, sport , canzoni etc.
